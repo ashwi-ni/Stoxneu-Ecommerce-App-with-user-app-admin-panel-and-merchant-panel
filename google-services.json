@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239389192310",
+    "project_id": "stoxneu",
+    "storage_bucket": "stoxneu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239389192310:android:3b5cffa592f3923d446f57",
+        "android_client_info": {
+          "package_name": "com.example.stoxneu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGO4HxTpi9-OfyvOTkHqL-eVCbTuqOt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
